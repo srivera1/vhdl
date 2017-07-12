@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 			sergio rivera
+-- Engineer: 			sergio rivera (srivera (at) ucm.es)
 -- 
 -- Create Date:    	16:08:08 03/02/2017 
 -- Design Name: 
